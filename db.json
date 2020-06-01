@@ -2,7 +2,7 @@
     "logs": [
         {
             "id":1,
-            "message": "Chnaged hard drive on workstation 005",
+            "message": "Changed hard drive on workstation 005",
             "attention": false,
             "date": "03-02-2019",
             "tech": "Sam Smith"
@@ -12,11 +12,11 @@
             "message": "Workstation 007 not posting",
             "attention": true,
             "date": "03-02-2019",
-            "tech": "Johny Dip"
+            "tech": "Johny Deep"
         },
         {
             "id":3,
-            "message": "Chnaged memory on workstation 050",
+            "message": "Changed memory on workstation 050",
             "attention": false,
             "date": "03-02-2019",
             "tech": "Sara William"
